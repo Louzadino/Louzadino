@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm a Computer Engineering student!
 
 ### About Me  
-I'm Guilherme Figueiredo, a 21-year-old Computer Engineering student currently pursuing my degree.  I'm passionate about tech, programming, and problem-solving. **Data Structures**, **Computer Architecture**, **AI**, and **Software Development** are some of my personal interests!
+I'm Guilherme Figueiredo, a 21-year-old Computer Engineering student currently pursuing my degree.  I'm passionate about tech, programming, and problem-solving. **Data Structures**, **Computer Architecture**, **AI**, **Software Development** and **Game Development** are some of my personal interests!
 
 ### 🌱 Currently Learning  
 - Advanced **Data Structures & Algorithms**  
